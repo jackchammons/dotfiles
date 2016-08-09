@@ -1,0 +1,2 @@
+sytax on
+colorscheme cyberpunk
